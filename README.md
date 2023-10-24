@@ -6,4 +6,8 @@ pkg upgrade
 
 pkg install git 
 
-git clone 
+git clone https://github.com/Blackeye246/autophisher
+
+cd autophisher
+
+bash autophisher.sh
