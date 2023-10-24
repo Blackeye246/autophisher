@@ -8,7 +8,7 @@
 
 
 ##
-##      Copyright (C) 2022  CODING RANJITH (https://github.com/CodingRanjith/autophisher)
+##      Copyright (C) 2022  Cyber Expart (https://github.com/Blackeye246/autophisher)
 ##
 
 
