@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   autophisher 	: 	Automated Phishing Tool
-##   Author      	: 	CODING RANJITH
+##   Author      	: 	cyber_expert
 ##   Version     	: 	2.0
-##   Github      	: 	https://github.com/CodingRanjith/autophisher
+##   Github      	: 	https://github.com/Blackeye246/autophisher
 
 
 
